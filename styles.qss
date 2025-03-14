@@ -1,0 +1,13 @@
+/* Datei: styles.qss
+   Beschreibung: Das Styling für das Game Achievement Tracker Dark Theme */
+
+QMainWindow {
+    background-color: #2b2b2b; /* Hintergrundfarbe für das Hauptfenster */
+    color: #ffffff; /* Textfarbe */
+}
+
+QLabel {
+    font-size: 18px; /* Schriftgröße für Labels */
+    font-weight: bold; /* Fettgedruckte Schrift für Labels */
+    color: #ffffff; /* Textfarbe für Labels */
+}
